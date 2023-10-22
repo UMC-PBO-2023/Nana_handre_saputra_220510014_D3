@@ -1,7 +1,9 @@
-### <center> 🚀 PEMROGRAMAN BERORIENTASI OBYEK 🚀</center>
+#### <center> 🚀 PEMROGRAMAN BERORIENTASI OBYEK 🚀</center>
 
-#### <center>NANA HANDRE SAPUTRA</center>
+##### <center>NANA HANDRE SAPUTRA</center>
 
-#### <center>NIM 220510014</center>
+##### <center>NIM 220510014</center>
 
-#### <center>D3 TEKNIK INFORMATIKA</center>
+##### <center>D3 TEKNIK INFORMATIKA</center>
+
+#### <center>Tugas PBO ada di dalam forlder pertemuan</center>
