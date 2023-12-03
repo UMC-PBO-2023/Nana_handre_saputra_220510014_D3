@@ -7,3 +7,11 @@
 | Nana Handre Saputra | 220510014 |
 | Misnen              | 220510002 |
 | Agung Putra Laksono | 220510009 |
+
+### :globe_with_meridians: Demo
+
+<div style='display: flex;'>
+  
+<img src="https://github.com/UMC-PBO-2023/D3-TF22A-Kelompiok1-Aplikasi_Hitung_Kalkulator-Flet_Python/blob/master/Screenshot_1.jpg" width="300">
+<img src="https://github.com/UMC-PBO-2023/D3-TF22A-Kelompiok1-Aplikasi_Hitung_Kalkulator-Flet_Python/blob/master/Screenshot_2.jpg" width="300">
+</div>
